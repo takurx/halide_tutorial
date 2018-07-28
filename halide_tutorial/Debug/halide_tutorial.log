@@ -1,0 +1,2 @@
+﻿  main.cpp
+Halide.lib(Halide.dll) : fatal error LNK1112: モジュールのコンピューターの種類 'x64' は対象コンピューターの種類 'X86' と競合しています。
